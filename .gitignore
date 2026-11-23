@@ -31,3 +31,7 @@ htmlcov/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Agents
+AGENTS.md
+CLAUDE.md
